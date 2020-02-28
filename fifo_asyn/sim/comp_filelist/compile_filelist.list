@@ -1,0 +1,14 @@
+
+// Make Sure You Have Set The $WORK_HOME Path to the IP/VIP
+
+// Compile List
+
+// If the UVM Path Can't be given directly
+//+incdir+$WORK_HOME/sim_run/uvm_files/
+// else
+//+incdir+$UVM_PATH/
+
++incdir+$IP_MISC_FIFO_ASYN_HOME/common/
++incdir+$IP_MISC_FIFO_ASYN_HOME/top/
+
+// User Specific Defines

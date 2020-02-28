@@ -1,0 +1,2 @@
+
+export IP_MISC_FIFO_ASYN_HOME="./../../fifo_async"
